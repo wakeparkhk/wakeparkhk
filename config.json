@@ -1,0 +1,203 @@
+{
+    "status": "Jezdíme! Písník Dubina a nově i Stříbrný rybník.",
+    "openingHours": [
+        {
+            "id:": "Monday",
+            "name": "Pondělí",
+            "status": true,
+            "open": "11:00",
+            "close": "20:00"
+        },
+        {
+            "id": "Tuesday",
+            "name": "Úterý",
+            "status": true,
+            "open": "11:00",
+            "close": "20:00"
+        },
+        {
+            "id": "Wednesday",
+            "name": "Středa",
+            "status": true,
+            "open": "11:00",
+            "close": "20:00"
+        },
+        {
+            "id": "Thursday",
+            "name": "Čtvrtek",
+            "status": true,
+            "open": "11:00",
+            "close": "20:00"
+        },
+        {
+            "id": "Friday",
+            "name": "Pátek",
+            "status": true,
+            "open": "11:00",
+            "close": "20:00"
+        },
+        {
+            "id": "Saturday",
+            "name": "Sobota",
+            "status": true,
+            "open": "10:00",
+            "close": "20:00"
+        },
+        {
+            "id": "Sunday",
+            "name": "Neděle",
+            "status": true,
+            "open": "10:00",
+            "close": "19:00"
+        }
+    ],
+    "pricing": {
+        "ticketsAdults": [
+            {
+                "col1": "1 hodina (po - pá)",
+                "col2": "350 Kč"
+            },
+            {
+                "col1": "1 hodina (so - ne)",
+                "col2": "400 Kč"
+            },
+            {
+                "col1": "2 hodiny (po - pá)",
+                "col2": "450 Kč"
+            },
+            {
+                "col1": "2 hodiny (so - ne)",
+                "col2": "500 Kč"
+            },
+            {
+                "col1": "4 hodiny (po - pá)",
+                "col2": "600 Kč"
+            },
+            {
+                "col1": "4 hodiny (so - ne)",
+                "col2": "750 Kč"
+            },
+            {
+                "col1": "Celodenní (po - pá)",
+                "col2": "750 Kč"
+            },
+            {
+                "col1": "Celodenní (so - ne)",
+                "col2": "890 Kč"
+            },
+            {
+                "col1": "sezónní",
+                "col2": "16 000 Kč"
+            },
+            {
+                "col1": "sezónní (akce do 1.6.2022) ",
+                "col2": "12 500 Kč"
+            },
+            {
+                "col1": "Pronájem malého vleku 30 minut (mimo víkend)",
+                "col2": "500 Kč"
+            }
+        ],
+        "ticketsYouth": [
+            {
+                "col1": "1 hodina (po - pá)",
+                "col2": "250 Kč"
+            },
+            {
+                "col1": "1 hodina (so - ne)",
+                "col2": "300 Kč"
+            },
+            {
+                "col1": "2 hodiny (po - pá)",
+                "col2": "350 Kč"
+            },
+            {
+                "col1": "2 hodiny (so - ne)",
+                "col2": "400 Kč"
+            },
+            {
+                "col1": "4 hodiny (po - pá)",
+                "col2": "450 Kč"
+            },
+            {
+                "col1": "4 hodiny (so - ne)",
+                "col2": "500 Kč"
+            },
+            {
+                "col1": "Celodenní (po - pá)",
+                "col2": "500 Kč"
+            },
+            {
+                "col1": "Celodenní (so - ne)",
+                "col2": "600 Kč"
+            },
+            {
+                "col1": "sezónní",
+                "col2": "8 000 Kč"
+            }
+        ],
+        "rentals": [
+            {
+                "col1": "wakeboard 1 hodina",
+                "col2": "200 Kč + záloha"
+            },
+            {
+                "col1": "Wakeboard 2 hodiny",
+                "col2": "300 Kč + záloha"
+            },
+            {
+                "col1": "Wakeboard 2 hodiny celý den",
+                "col2": "350 Kč + záloha"
+            },
+            {
+                "col1": "Lyže 1 hodina",
+                "col2": "100 Kč + záloha"
+            },
+            {
+                "col1": "Lyže 2 hodiny",
+                "col2": "200 Kč + záloha"
+            },
+            {
+                "col1": "Lyže celý den",
+                "col2": "250 Kč + záloha"
+            },
+            {
+                "col1": "Wakeskate 1 hodina",
+                "col2": "150 Kč + záloha"
+            },
+            {
+                "col1": "Wakeskate 2 hodiny",
+                "col2": "200 Kč + záloha"
+            },
+            {
+                "col1": "Wakeskate celý den",
+                "col2": "250 Kč + záloha"
+            },
+            {
+                "col1": "Neopren dlouhý 1 hodina",
+                "col2": "150 Kč + záloha"
+            },
+            {
+                "col1": "Neopren dlouhý 2 hodiny",
+                "col2": "200 Kč + záloha"
+            },
+            {
+                "col1": "Neopren dlouhý celý den",
+                "col2": "250 Kč + záloha"
+            },
+            {
+                "col1": "Vesta celý den",
+                "col2": "50 Kč + záloha"
+            },
+            {
+                "col1": "Helma celý den",
+                "col2": "50 Kč + záloha"
+            },
+            {
+                "col1": "Záloha",
+                "col2": "500 Kč"
+            }
+        ],
+        "rentalsStatus": "Zapůjčené vybavení musí být vráceno do 15 minut po skončení platnosti lístku, jinak bude účtování penále. Všechny lístky jsou nepřenosné. Zakoupením lístku souhlasíte s provozním řádem a pravidly Wake parku Hradec Králové. K zakoupení dětského jízdného je zapotřebí prokázat věk dítěte."
+    }
+}
